@@ -29,6 +29,10 @@ p {
   margin-bottom: 0;
 }
 
+address {
+  font-style: normal;
+}
+
 /* --- COMPONENTS --- */
 
 .logo {
@@ -82,7 +86,6 @@ p {
 }
 
 .contacts-list {
-  font-style: normal;
   margin: 20px 40px 40px 40px;
 }
 
